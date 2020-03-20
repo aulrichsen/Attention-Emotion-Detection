@@ -234,7 +234,7 @@ def testDetection():
     cv2.destroyAllWindows()
 
 
-testDetection()
+#testDetection()
 
 
 
